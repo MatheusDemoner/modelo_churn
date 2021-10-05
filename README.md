@@ -7,3 +7,8 @@
 
 ## - Project created based on data from the Brazilian company Olist e-commerce, in order to identify customers who would leave the platform in the next 3 months. 
 ## - The model used was randomforest, capable of predicting with 80% accuracy which clients would leave the platform.
+
+
+you can find all datasets here : https://www.kaggle.com/olistbr/brazilian-ecommerce
+
+check also my linkedin: https://www.linkedin.com/in/matheus-demoner-08a527134/
